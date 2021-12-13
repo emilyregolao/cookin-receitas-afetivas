@@ -8,6 +8,7 @@ https://cookin-receitas-afetivas.vercel.app
 
 ### Documentação da API construída
 API criada pelo próprio grupo para consumo no projeto.
+
 https://github.com/emilyregolao/api-cookin
 
 ### Ferramentas utilizadas
